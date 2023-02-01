@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918908337602",
+    "project_id": "vethouse-6c028",
+    "storage_bucket": "vethouse-6c028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918908337602:android:9f73a1906022e85bee2a5b",
+        "android_client_info": {
+          "package_name": "com.example.vethouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918908337602-utk503ebpjs8578jahb96maaephv2j1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxx4YdZX7v2mplAXeWaECqkbbg2H99so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918908337602-utk503ebpjs8578jahb96maaephv2j1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
